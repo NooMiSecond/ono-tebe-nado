@@ -32,8 +32,9 @@ a {
 }
 
 header {
-  height: 105px;
+  min-height: 105px;
 }
+
 address {
   font-style: normal;
 }
